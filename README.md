@@ -4,6 +4,8 @@
 
 </div>
 
+<br />
+
 👋 I build small, sharp software at [**Ruwad Group**](https://github.com/ruwadgroup), with a bias for clarity over noise.
 
 ### 🚀 Shipped
