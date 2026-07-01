@@ -15,5 +15,8 @@
 ### 🧪 In progress
 
 - 🖨️ [**imprint-pdf**](https://github.com/ruwadgroup/imprint-pdf) - Author PDFs as React components, styled with real Tailwind CSS. No Chromium, ever.
-- ✉️ [**marque**](https://github.com/tamimbinhakim/marque) - A cryptographically signed, federated messaging protocol proposed as a successor to SMTP and IMAP.
 - 🌐 [**autotranslate**](https://github.com/tamimbinhakim/autotranslate) - Automated, AI-powered i18n for any React framework. Code is the source of truth.
+
+### 📋 Backlog
+
+- ✉️ [**marque**](https://github.com/tamimbinhakim/marque) - A cryptographically signed, federated messaging protocol proposed as a successor to SMTP and IMAP.
