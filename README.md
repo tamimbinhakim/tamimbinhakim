@@ -16,8 +16,4 @@
 
 - 🔐 **stronghold** - Peer-to-peer, local-first password manager. Your vault syncs device-to-device over encrypted P2P, no server ever holds it.
 - 🖨️ [**imprint-pdf**](https://github.com/ruwadgroup/imprint-pdf) - Author PDFs as React components, styled with real Tailwind CSS. No Chromium, ever. *(alpha)*
-- 🌐 [**autotranslate**](https://github.com/tamimbinhakim/autotranslate) - Automated, AI-powered i18n for any React framework. Code is the source of truth. *(beta)*
-
-### 📋 Backlog
-
-- ✉️ [**marque**](https://github.com/tamimbinhakim/marque) - A cryptographically signed, federated messaging protocol proposed as a successor to SMTP and IMAP.
+- 🌐 [**autotranslate**](https://github.com/tamimbinhakim/autotranslate) - Automated, AI-powered i18n for any React framework. Code is the source of truth. *(alpha)*
