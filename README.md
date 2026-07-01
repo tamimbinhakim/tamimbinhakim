@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Tamim Bin Hakim - Rebuilding and rethinking in the age of AI" width="100%" />
+<img src="./banner.jpeg" alt="Tamim Bin Hakim - Rebuilding and rethinking in the age of AI" width="100%" />
 
 </div>
 
