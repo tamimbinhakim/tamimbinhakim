@@ -6,7 +6,9 @@
 
 <br />
 
-👋 I build small, sharp software at [**Ruwad Group**](https://github.com/ruwadgroup), with a bias for clarity over noise.
+**Founder · [Ruwad Group](https://github.com/ruwadgroup)**
+
+👋 I build small, sharp software, with a bias for clarity over noise.
 
 ### 🚀 Shipped
 
