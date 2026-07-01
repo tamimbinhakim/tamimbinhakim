@@ -23,4 +23,4 @@
 ### 📋 Backlog
 
 - 🗄️ **twinfold** - A reactive, bitemporal, fact-based database. Stores immutable facts, not rows, so every past and present state stays queryable. Speaks the Postgres wire protocol.
-- ✉️ [**marque**](https://github.com/tamimbinhakim/marque) - A cryptographically signed, federated messaging protocol proposed as a successor to SMTP and IMAP.
+- ✉️ [**marque**](https://github.com/ruwadgroup/marque) - A cryptographically signed, federated messaging protocol proposed as a successor to SMTP and IMAP.
