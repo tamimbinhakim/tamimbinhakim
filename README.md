@@ -18,7 +18,7 @@
 
 - 🔐 **stronghold** - Peer-to-peer, local-first password manager. Your vault syncs device-to-device over encrypted P2P, no server ever holds it.
 - 🖨️ [**imprint-pdf**](https://github.com/ruwadgroup/imprint-pdf) - Author PDFs as React components, styled with real Tailwind CSS. No Chromium, ever.
-- 🌐 [**autotranslate**](https://github.com/tamimbinhakim/autotranslate) - Automated, AI-powered i18n for any React framework. Code is the source of truth.
+- 🌐 [**autotranslate**](https://github.com/ruwadgroup/autotranslate) - Automated, AI-powered i18n for any React framework. Code is the source of truth.
 
 ### 📋 Backlog
 
