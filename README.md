@@ -17,3 +17,8 @@
 - 🔐 **stronghold** - Peer-to-peer, local-first password manager. Your vault syncs device-to-device over encrypted P2P, no server ever holds it.
 - 🖨️ [**imprint-pdf**](https://github.com/ruwadgroup/imprint-pdf) - Author PDFs as React components, styled with real Tailwind CSS. No Chromium, ever.
 - 🌐 [**autotranslate**](https://github.com/tamimbinhakim/autotranslate) - Automated, AI-powered i18n for any React framework. Code is the source of truth.
+
+### 📋 Backlog
+
+- 🗄️ **twinfold** - A reactive, bitemporal, fact-based database. Stores immutable facts, not rows, so every past and present state stays queryable. Speaks the Postgres wire protocol.
+- ✉️ [**marque**](https://github.com/tamimbinhakim/marque) - A cryptographically signed, federated messaging protocol proposed as a successor to SMTP and IMAP.
